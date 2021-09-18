@@ -1,7 +1,7 @@
 <style>
-.example-3 {
-    height: 100%;
-    background - image: #6e78f7 url(https://images.app.goo.gl/Sn3yFQdjgEBCEEuX9) no-repeat center / cover;
+.example-1 {
+    height: 150px;
+    background: #6d78f7;
 }
 </style>
-<div class="example-3"></div>
+<div class="example-1"></div>
