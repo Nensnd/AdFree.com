@@ -1,4 +1,7 @@
-.box{
-background: url(../img_1972);
-
- }
+<style>
+.example-3 {
+    height: 100%;
+    background: #6e78f7 url(https://images.app.goo.gl/Sn3yFQdjgEBCEEuX9) no-repeat center / cover;
+}
+</style>
+<div class="example-3"></div>
